@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-plugin-debug-build",
+  "version": "1.0.0",
+  "description": "Gatsby plugin to force the dev version of builds",
+  "main": "gatsby-node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alampros/gatsby-plugin-debug-build.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "author": "Aaron Lampros <alampros@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alampros/gatsby-plugin-debug-build/issues"
+  },
+  "homepage": "https://github.com/alampros/gatsby-plugin-debug-build#readme",
+  "dependencies": {
+    "webpack": "^1.13.3"
+  }
+}
