@@ -1,6 +1,12 @@
 # gatsby-plugin-debug-build
 Gatsby plugin to force the dev version of builds
 
+# 🚨DEPRECATED 🚨
+
+Use the `--no-uglify` option when building instead.
+
+---
+
 This is a [Gatsby](https://www.gatsbyjs.org) plugin that simply removes any
 `UglifyJsPlugin` instances from the webpack chain and sets the `NODE_ENV` to
 `development`.  This makes webpack include the full development bundle of react
